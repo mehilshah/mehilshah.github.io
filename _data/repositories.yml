@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mehilshah
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+- mehilshah/Bug_Reproducibility_DL_Bugs
+- mehilshah/dlRepro
+- mehilshah/mehilshah.github.io

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: January 2024
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I submitted two papers to EMSE on Deep Learning Bug Reproducibility and Deep Learning Bug Localization, one as first author and the other as second author. Preprints for both papers will be available soon.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: December 2023
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will serve as a teaching assistant for two courses in the Winter 2024 term: CSCI x691 and CSCI 5308.

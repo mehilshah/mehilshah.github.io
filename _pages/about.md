@@ -13,10 +13,12 @@ profile:
     <p>Dalhousie University</p>
     <p>Halifax, NS</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD Student in the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html) at [Dalhousie University](https://www.dal.ca/). I am currently being advised by [Prof. Masud Rahman](https://web.cs.dal.ca/~masud/), and [Prof. Foutse Khomh](http://www.khomh.net/). My primary research interests are at the interesection of Software Engineering and Deep Learning, with a focus on secure, reliable and explainable deep learning systems. My current research focuses on understanding the behaviour of bugs in deep learning systems, and trying to improve reproducibility of deep learning bugs.
+
+In the recent times, I have been particularly intrigued by the role of data quality and data bugs in deep learning systems. These bugs originating from training data issues can significantly influence the performance and functionality of deep learning models. Given the widespread occurrence and critical impact of data bugs, there is a clear need for effective techniques to debug and address these issues within the training data.
