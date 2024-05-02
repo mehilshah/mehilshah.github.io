@@ -1,8 +1,8 @@
 ---
 layout: post
-date: December 2023
+date: April 2024
 inline: true
 related_posts: false
 ---
 
-I served on the Junior Program Committee for the 2024 Mining Software Repositories (MSR) conference, where I reviewed 5 papers on a wide range of topics.
+I will be serving as the Teaching Assistant and/or Marker for the courses CSCI x691, and CSCI 6409 in the Summer 2024.

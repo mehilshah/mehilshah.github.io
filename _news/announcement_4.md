@@ -1,8 +1,8 @@
 ---
 layout: post
-date: November 2023
+date: December 2023
 inline: true
 related_posts: false
 ---
 
-Served as a sub-reviewer for the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2024.
+I served on the Junior Program Committee for the 2024 Mining Software Repositories (MSR) conference, where I reviewed 5 papers on a wide range of topics.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: December 2023
+date: January 2024
 inline: true
 related_posts: false
 ---
 
-I will serve as a teaching assistant for two courses in the Winter 2024 term: CSCI x691 and CSCI 5308.
+I submitted two papers to EMSE on Deep Learning Bug Reproducibility and Deep Learning Bug Localization, one as first author and the other as second author. Preprints for both papers will be available soon.
