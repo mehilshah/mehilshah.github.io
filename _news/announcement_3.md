@@ -1,8 +1,8 @@
 ---
 layout: post
-date: January 2024
+date: June 2024
 inline: true
 related_posts: false
 ---
 
-I submitted two papers to EMSE on Deep Learning Bug Reproducibility and Deep Learning Bug Localization, one as first author and the other as second author. Preprints for both papers will be available soon.
+Will be serving as the Web Chair for the *SANER 2025*. Thanks to Prof. Foutse Khomh, Prof. Mohammad Hamdaqa and Prof. Masud Rahman for the opportunity!
