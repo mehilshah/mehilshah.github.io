@@ -1,8 +1,8 @@
 ---
 layout: post
-date: May 2025
+date: Apr 2025
 inline: true
 related_posts: false
 ---
 
-I am honored to announce that I received the <strong>Best Paper Presentation Award</strong> at the Consortium for Software Engineering Research (CSER) 2025.
+Thrilled to share my experience at <b>ICSE 2025</b> along with its co-located conferences (MSR, ICPC, FORGE, CAIN), where I served as a student volunteer. Looking forward to contributing more to the software engineering research community!
