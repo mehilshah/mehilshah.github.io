@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be serving as a PC member for the *Artifact Evaluation* Track of CASCON 2025, consider submitting your artifacts! Looking forward to your high-quality submissions.
+I will be serving as a PC member for the *Artifact Evaluation* Track of CASCON 2025, consider submitting your artifacts! Looking forward to your high-quality submissions. Thanks to Prof. Heng Li, and Prof. Fokaefs for the consideration and the invitation.
