@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our journal article titled "Towards Enhancing the Reproducibility of Deep Learning Bugs: An Empirical Study" is accepted by EMSE. The preprint is available on [arXiv](https://arxiv.org/abs/2411.12137).
+Our journal article titled "Towards Understanding the Impact of Data Bugs on Deep Learning Models in Software Engineering" is accepted by EMSE. The preprint is available on [arXiv](https://arxiv.org/abs/2411.12137).
